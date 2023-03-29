@@ -9,8 +9,8 @@ And It is my first work.
 If you find some errors, please let me know.
 만약 에러를 찾는다면, 말해주세요.
 
-English could be difficult to understand.
-영어가 이해하기 힘들 수 있습니다.
+English could be difficult to understand or wrong.
+영어가 이해하기 힘들거나 잘못되었을 수 있습니다.
 
 Thanks.
 감사합니다.
