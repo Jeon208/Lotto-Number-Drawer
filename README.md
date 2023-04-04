@@ -1,16 +1,7 @@
 # Lotto-Number-Drawer
 
-This program draws the lotto numbers.
-이 프로그램은 로또 번호를 추첨합니다.
+이 프로그램은 로또 번호를 추첨해줍니다.
 
-And It is my first work.
-그리고 이건 내 첫 작품입니다.
+공의 최대 번호와 개수를 지정할 수 있습니다.
 
-If you find some errors, please let me know.
-만약 에러를 찾는다면, 말해주세요.
-
-English could be difficult to understand or wrong.
-영어가 이해하기 힘들거나 잘못되었을 수 있습니다.
-
-Thanks.
-감사합니다.
+그리고 이를 여러번 시도할 수 있습니다.
