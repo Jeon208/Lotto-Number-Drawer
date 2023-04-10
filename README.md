@@ -1,11 +1,12 @@
 # Lotto-Number-Drawer
-
+-----
 실행 전 :
 
 없음.
 
 None.
 
+-----
 
 코드 설명 : 
 
